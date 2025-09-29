@@ -7,11 +7,10 @@ DocuMind AI is a powerful Streamlit-based web application designed to facilitate
 
 ## 📢 Demo App with Streamlit Cloud
 
-[Launch App On Streamlit]([https://documind-ai.streamlit.app/](https://documentanalyzer-llm.streamlit.app/))
+[Launch App On Streamlit](https://documentanalyzer-llm.streamlit.app/)
 
 
 ## 🎯 How It Works:
-------------
 
 The application follows these steps to provide intelligent responses to your questions:
 
